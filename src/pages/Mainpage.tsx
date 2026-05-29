@@ -131,7 +131,7 @@ export default function Mainpage() {
         </div>
       </div>
       {/* Input Area */}
-      <div className="bg-[#f0f2f5] p-5 border-t">
+      <div className="bg-[#005B74] p-5 border-t">
         <div className="flex items-center gap-2">
 
         </div>
